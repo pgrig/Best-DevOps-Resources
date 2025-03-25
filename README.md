@@ -11,4 +11,7 @@ Here are the best articles and tools that make life easier!
 - [commitizen](https://commitizen-tools.github.io/commitizen/)
 
 
+# Orchestration
+## k8s useful resources
+- [yaml-generator](https://k8syaml.com/)
 ## I would be happy if you would contribute to this repository!
