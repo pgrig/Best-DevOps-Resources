@@ -14,4 +14,10 @@ Here are the best articles and tools that make life easier!
 # Orchestration
 ## k8s useful resources
 - [yaml-generator](https://k8syaml.com/)
+
+# DevSecOps
+
+- [GitLeaks](https://github.com/gitleaks/gitleaks)
+# Other
+- [asciinema.org](https://asciinema.org/)
 ## I would be happy if you would contribute to this repository!
